@@ -1,3 +1,3 @@
-# calton hotel
+# carlton hotel
 ## Website for Carlton Hotel Egypt
 
