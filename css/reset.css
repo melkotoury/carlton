@@ -175,17 +175,17 @@ a.btn.btn-black:hover{
     outline: none;
 }
 .btn.btn-blue{
-  background: #2fb3e7;
+  background: #fe5d5d;
   color: #fff;
   font-size: 14px;
   padding: 5px;
   text-transform: uppercase;
-  border: 1px solid #2fb3c7;
+  border: 1px solid #fe5d5d;
 }
 .btn.btn-blue:hover{
   background: #fff;
-  color: #2fb3c7;
-  border: 1px solid #2fb3c7;
+  color: #fe5d5d;
+  border: 1px solid #fe5d5d;
 }
 .btn-primary:hover,
 .btn-primary:focus,
